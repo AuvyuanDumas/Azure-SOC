@@ -14,11 +14,13 @@ In this project, I set up a mini honeynet in Azure and configured it to send log
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
 ## Architecture Before Hardening / Security Controls
-<img width="893" alt="image" src="https://github.com/AuvyuanDumas/Azure-SOC/assets/148530581/036d87a2-193b-404b-b655-2cfb436a2198">
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/896c674d-a861-4f31-81ed-a256cda66946" />
+
 
 
 ## Architecture After Hardening / Security Controls
-<img width="893" alt="image" src="https://github.com/AuvyuanDumas/Azure-SOC/assets/148530581/df5ae031-f740-4004-95e7-550ad0e640ef">
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/172d893d-9b6a-4c61-9d13-c81310292944" />
+
 
 
 The architecture of the mini honeynet in Azure consists of the following components:
